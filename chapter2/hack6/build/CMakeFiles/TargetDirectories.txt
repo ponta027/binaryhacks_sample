@@ -1,5 +1,0 @@
-/home/pi/git/binaryhacks_sample/chapter2/hack6/build/CMakeFiles/rebuild_cache.dir
-/home/pi/git/binaryhacks_sample/chapter2/hack6/build/CMakeFiles/sample.dir
-/home/pi/git/binaryhacks_sample/chapter2/hack6/build/CMakeFiles/sample_so.dir
-/home/pi/git/binaryhacks_sample/chapter2/hack6/build/CMakeFiles/main.dir
-/home/pi/git/binaryhacks_sample/chapter2/hack6/build/CMakeFiles/edit_cache.dir

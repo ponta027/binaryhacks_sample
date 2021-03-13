@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsample.a  CMakeFiles/sample.dir/src/bar.c.o
-/usr/bin/ranlib libsample.a
