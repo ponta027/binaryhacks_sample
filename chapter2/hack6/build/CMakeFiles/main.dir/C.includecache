@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/git/binaryhacks_sample/chapter2/hack6/inc/bar.h
+
+/home/pi/git/binaryhacks_sample/chapter2/hack6/inc/foo.h
+
+/home/pi/git/binaryhacks_sample/chapter2/hack6/main.c
+stdio.h
+-
+inc/bar.h
+/home/pi/git/binaryhacks_sample/chapter2/hack6/inc/bar.h
+inc/foo.h
+/home/pi/git/binaryhacks_sample/chapter2/hack6/inc/foo.h
+
